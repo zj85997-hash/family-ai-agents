@@ -1,0 +1,8 @@
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 你自己填了孩子真实信息的版本，放这里，不会被提交
+private/
+*.mine.md
+*.private.md
